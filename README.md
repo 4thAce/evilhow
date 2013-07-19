@@ -1,0 +1,1 @@
+This is the configuration information for the Tiki wiki powering the evilhow.com site

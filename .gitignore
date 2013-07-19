@@ -1,0 +1,9 @@
+*~
+*#
+error_log*
+/templates_c/
+/modules/cache/*
+db/local.php
+/temp/
+/backups/
+/db/lock
